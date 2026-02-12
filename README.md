@@ -85,12 +85,6 @@ To become a skilled cybersecurity professional specializing in **offensive secur
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://img.shields.io/github/stats-counts/nabirakhan?style=for-the-badge)
-
----
-
 <p align="center">
   <i>"In cybersecurity, the only constant is change. Stay curious, stay vigilant."</i>
 </p>
