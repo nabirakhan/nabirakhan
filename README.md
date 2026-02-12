@@ -90,7 +90,7 @@ To become a skilled cybersecurity professional specializing in **offensive secur
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nabirakhan&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabirakhan&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabirakhan&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabirakhan&layout=compact&theme=radical" height="165"/>
 </p>
 
 
