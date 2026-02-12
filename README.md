@@ -87,20 +87,11 @@ To become a skilled cybersecurity professional specializing in **offensive secur
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabirakhan&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabirakhan&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabirakhan&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+| GitHub Stats | GitHub Streak | Top Languages |
+|--------------|---------------|---------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=nabirakhan&show_icons=true&theme=radical" height="150"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabirakhan&theme=radical" height="150"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabirakhan&layout=compact&theme=radical" height="150"/> |
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nabirakhan&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
 
 <p align="center">
   <i>"In cybersecurity, the only constant is change. Stay curious, stay vigilant."</i>
