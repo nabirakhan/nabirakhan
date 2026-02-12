@@ -87,9 +87,12 @@ To become a skilled cybersecurity professional specializing in **offensive secur
 
 ## 📊 GitHub Stats
 
-| GitHub Stats | GitHub Streak | Top Languages |
-|--------------|---------------|---------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=nabirakhan&show_icons=true&theme=radical" height="150"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabirakhan&theme=radical" height="150"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabirakhan&layout=compact&theme=radical" height="150"/> |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabirakhan&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabirakhan&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabirakhan&layout=compact&theme=radical" height="165"/>
+</p>
+
 
 ---
 
