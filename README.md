@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm Nabira Khan
 
 <p align="center">
-  <img src="assets/hacker-animation.gif" alt="Coding in the Dark" width="700"/>
+  <img src="assets/hacker-animation.gif" alt="Hacker Animation" width="700"/>
 </p>
 
 <p align="center">
   <i>6th Semester CS Student @ FAST-NUCES Karachi</i>
 </p>
 <p align="center">
-  <i>🛡️ Passionate Ethical Hacker | Penetration Testing | Vulnerability Assessment | Secure Development</i>
+  <i>Passionate Ethical Hacker | Penetration Testing | Vulnerability Assessment | Secure Development</i>
 </p>
 
 ---
@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
 </p>
@@ -71,10 +72,10 @@
 
 ## 🌐 Currently Exploring
 
-- 🔴 **Advanced Offensive Security** (Web, Network, Cloud, API)
-- 🤖 **Security Automation & Tool Development**
-- 🧠 **AI-powered Security Tools and LLM Integration**
-- 🛠️ **Secure Application Development**
+- Advanced Offensive Security (Web, Network, Cloud, API)
+- Security Automation & Tool Development
+- AI-powered Security Tools and LLM Integration
+- Secure Application Development
 
 ---
 
@@ -93,24 +94,6 @@ To become a skilled cybersecurity professional specializing in **offensive secur
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabirakhan&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-## 📫 Let's Connect!
-
-Feel free to reach out if you want to collaborate on security projects, discuss pentesting techniques, or just have a chat about cybersecurity!
-
-<p align="center">
-  <a href="https://linkedin.com/in/nabira-khan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nabirakhan.official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/nabirakhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 ---
