@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>6th Semester CS Student @ FAST-NUCES Karachi | Minor in Cybersecurity | 3.91 CGPA</i>
+  <i>6th Semester CS Student @ FAST-NUCES Karachi</i>
 </p>
 <p align="center">
   <i>🛡️ Passionate Ethical Hacker | Penetration Testing | Vulnerability Assessment | Secure Development</i>
@@ -69,40 +69,12 @@
 
 ---
 
-## 🌟 About Me
-
-- 🎓 6th Semester CS Student at **FAST-NUCES Karachi** with a Minor in **Cybersecurity**
-- 📊 Maintaining a **3.91 CGPA**
-- 🛡️ Passionate about **Information Security**, **Red Teaming**, and **Penetration Testing**
-- 💻 Skilled in **Python**, **C++**, **Bash**, **JavaScript**, **Dart**, **TypeScript**, and **SQL**
-- 🔧 Experienced with industry-standard security tools and frameworks
-- 🌙 Late-night coder and security researcher
-- 🔍 Always exploring new vulnerabilities and security techniques
-
----
-
 ## 🌐 Currently Exploring
 
 - 🔴 **Advanced Offensive Security** (Web, Network, Cloud, API)
 - 🤖 **Security Automation & Tool Development**
 - 🧠 **AI-powered Security Tools and LLM Integration**
 - 🛠️ **Secure Application Development**
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 **Solaris** – AI-powered Mental Wellness App
-AI-driven platform for mental health support and wellness tracking.
-
-### 🔍 **AIBuster** – AI-assisted Directory & Endpoint Discovery Tool
-Intelligent reconnaissance tool for web application security testing.
-
-### 🏥 **Pharmora** – Web-based Healthcare Management Platform
-Comprehensive healthcare management system with secure architecture.
-
-### 📁 **ByteFlow-FTP** – Secure FTP File Transfer System
-Secure file transfer protocol implementation with enhanced security features.
 
 ---
 
